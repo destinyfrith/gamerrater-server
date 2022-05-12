@@ -1,0 +1,20 @@
+[
+    {
+        "model": "gamerraterapi.image",
+        "pk": 1,
+        "fields": {
+            "image": "https://www.theboardgamefamily.com/wp-content/uploads/2018/08/Azul_EndGame.jpg",
+            "game": 1,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "gamerraterapi.image",
+        "pk": 2,
+        "fields": {
+            "image": "https://i.ytimg.com/vi/ctxIAYmYyv4/maxresdefault.jpg",
+            "game": 2,
+            "gamer": 1
+        }
+    }
+]

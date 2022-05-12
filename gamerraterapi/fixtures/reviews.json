@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.review",
+        "pk": 1,
+        "fields": {
+            "review": "This game is so relaxing. I love playing this with my partner before bed to wind down.",
+            "game": 1,
+            "gamer": 1    
+        }
+    }
+]

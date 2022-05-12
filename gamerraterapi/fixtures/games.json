@@ -1,0 +1,30 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Azul",
+            "description": "Strategic pattern building game",
+            "designer": "Plan B Games",
+            "number_of_players": 2,
+            "year_released": 2019,
+            "time_to_play": "45 minutes",
+            "age_recommendation": 15,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Call of Duty",
+            "description": "First person shooter game set in WWII",
+            "designer": "Activision",
+            "number_of_players": 1,
+            "year_released": 2003,
+            "time_to_play": "1 hour",
+            "age_recommendation": 18,
+            "gamer": 1
+        }
+    }
+]
