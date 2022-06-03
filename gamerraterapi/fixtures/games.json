@@ -26,5 +26,33 @@
             "age_recommendation": 18,
             "gamer": 1
         }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Pandemic",
+            "description": "Save the world from the virus!",
+            "designer": "Z-Man Games",
+            "number_of_players": 6,
+            "year_released": 2008,
+            "time_to_play": "1 hour",
+            "age_recommendation": 12,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "Candyland",
+            "description": "Candy lovers unite!",
+            "designer": "Milton Bradley",
+            "number_of_players": 1,
+            "year_released": 1949,
+            "time_to_play": "30 minutes",
+            "age_recommendation": 4,
+            "gamer": 1
+        }
     }
 ]

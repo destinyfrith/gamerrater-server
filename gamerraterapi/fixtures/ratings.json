@@ -16,5 +16,23 @@
             "game": 2,
             "gamer": 1
         }
+    },
+    {
+        "model": "gamerraterapi.rating",
+        "pk": 3,
+        "fields": {
+            "rating": 4,
+            "game": 3,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "gamerraterapi.rating",
+        "pk": 4,
+        "fields": {
+            "rating": 2,
+            "game": 4,
+            "gamer": 1
+        }
     }
 ]
